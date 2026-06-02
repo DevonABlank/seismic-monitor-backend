@@ -1,5 +1,7 @@
 # Global Seismic Monitor
 
+https://seismic-monitor-frontend.vercel.app
+
 A full-stack situational awareness dashboard that ingests live earthquake data from the USGS feed, persists it to PostgreSQL, and surfaces it through a paginated, filterable REST API consumed by a React/TypeScript operator dashboard.
 
 Built to demonstrate production-shaped full-stack architecture using Java, Spring Boot, and TypeScript — the core stack required for mission-system development on programs like C2IE.
